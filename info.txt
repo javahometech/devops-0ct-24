@@ -1,2 +1,2 @@
-This is Git tutorial some random text from Java Home
-We are going to become DevOps no no no engineers in 45 days
+This is Git tutorial from Java Home
+We are going to become DevOps engineers in 45 days
