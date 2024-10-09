@@ -1,2 +1,3 @@
 This is Git tutorial from Java Home
 We are going to become DevOps engineers in 45 days
+Branch is lightweight in Git, lets explore
